@@ -1,2 +1,2 @@
-# adax-heater-skill
-Alexa skill for managing Adax SolAire WiFI connected heaters
+# [WIP] adax-heater-skill
+Alexa skill for managing Adax SolAire WiFI connected heaters.
